@@ -6,4 +6,5 @@ Proyecto Django para la versión 1.7
 
     https://docs.djangoproject.com/en/dev/releases/1.7/  ==> DANTE
 
-
+io
+	paul Y_
