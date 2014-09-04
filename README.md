@@ -8,3 +8,6 @@ Proyecto Django para la versión 1.7
 
 io
 	paul Y_
+
+joakin
+
