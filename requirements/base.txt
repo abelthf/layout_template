@@ -3,4 +3,13 @@ bpython==0.13
 django-braces==1.4.0
 django-model-utils==2.0.3
 logutils==0.3.3
-grappelli==2.6.1
+#grappelli==2.6.1
+
+-e git+https://github.com/django-debug-toolbar/django-debug-toolbar.git#egg=django-debug-toolbar
+
+-e git+https://github.com/sehmaschine/django-grappelli.git@dev/2.6.x#egg=django-grappelli
+
+
+
+
+
